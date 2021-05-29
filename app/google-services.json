@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1058416674049",
+    "project_id": "shopi-8f0fd",
+    "storage_bucket": "shopi-8f0fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058416674049:android:73ff9757b2f75474dbc700",
+        "android_client_info": {
+          "package_name": "com.example.shopi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058416674049-oofbgnnr8q30r38n12bjafilqbsku82s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shopi",
+            "certificate_hash": "114fd2bd8d775760b46ac0cb5e4e4136cbc28f7c"
+          }
+        },
+        {
+          "client_id": "1058416674049-br9r0p5k6tqf91m5n7em37koqdugff9j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ7eYS1a9fZCYaA7g43_NOTs-0el04jHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058416674049-br9r0p5k6tqf91m5n7em37koqdugff9j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
